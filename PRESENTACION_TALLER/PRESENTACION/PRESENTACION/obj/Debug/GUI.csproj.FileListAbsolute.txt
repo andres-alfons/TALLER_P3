@@ -1,0 +1,15 @@
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\BLL.dll
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\DAL.dll
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\ENTITY.dll
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\BLL.pdb
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\DAL.pdb
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\bin\Debug\ENTITY.pdb
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\obj\Debug\PRESENTACION.exe.config
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\obj\Debug\GUI.csproj.Up2Date
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\barre\Downloads\TALLER\PRESENTACION\PRESENTACION\obj\Debug\PRESENTACION.pdb
